@@ -18,7 +18,7 @@ namespace KeyVaultDemoApp.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var secretName = "SecretPassword";
+            var secretName = "ExamplePassword";
             var secretValue = _configuration[secretName];
 
             if (secretValue == null)
