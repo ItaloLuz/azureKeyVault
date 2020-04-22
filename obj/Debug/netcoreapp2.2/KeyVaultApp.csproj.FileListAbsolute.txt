@@ -1,0 +1,14 @@
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/bin/Debug/netcoreapp2.2/KeyVaultApp.deps.json
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/bin/Debug/netcoreapp2.2/KeyVaultApp.runtimeconfig.json
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/bin/Debug/netcoreapp2.2/KeyVaultApp.runtimeconfig.dev.json
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/bin/Debug/netcoreapp2.2/KeyVaultApp.dll
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/bin/Debug/netcoreapp2.2/KeyVaultApp.pdb
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.csprojAssemblyReference.cache
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.csproj.CoreCompileInputs.cache
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.RazorAssemblyInfo.cache
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.RazorAssemblyInfo.cs
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.AssemblyInfoInputs.cache
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.AssemblyInfo.cs
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.RazorTargetAssemblyInfo.cache
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.dll
+/home/italo/Documentos/git/AzureKeyVault/KeyVaultApp/obj/Debug/netcoreapp2.2/KeyVaultApp.pdb
